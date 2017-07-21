@@ -1,4 +1,4 @@
-'use strict';
+require("babel-register");
 
 global.chai = require('chai');
 global.chai.should();
