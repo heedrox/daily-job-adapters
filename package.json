@@ -1,19 +1,19 @@
 {
-  "name": "nodejs-es6-mocha",
+  "name": "nodejs-babel-es6-mocha-skeleton",
   "version": "1.0.0",
-  "description": "Simple project setup for writing Nodejs apps with ES6 and unit testing with Mocha, Chai, and code coverage with Istanbul.",
+  "description": "Simple project setup for writing Nodejs apps with ES6 and BABEL, and unit testing with Mocha, Chai, and code coverage with Istanbul.",
   "scripts": {
     "example": "node index.js",
     "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha",
     "tdd:mac": "./node_modules/.bin/mocha -w"
   },
   "author": {
-    "name": "Karl Shifflett",
-    "url": "http://oceanware.wordpress.com"
+    "name": "Jordi Marti",
+    "url": "http://theinit.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Oceanware/nodejs-es6-mocha.git"
+    "url": "https://github.com/jmarti-theinit/nodejs-babel-es6-mocha-skeleton"
   },
   "keywords": [
     "ES6",
