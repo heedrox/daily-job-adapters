@@ -1,4 +1,4 @@
-import HelloWorld from './app/helloWorld'
+import Katayuno from './app/katayuno'
 
-let c = new HelloWorld(process.argv.slice(2));
-c.run();
+const katayuno = new Katayuno();
+console.log(katayuno.sum(2,4));

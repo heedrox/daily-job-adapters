@@ -4,7 +4,6 @@
   "description": "Simple project setup for writing Nodejs apps with ES6 and unit testing with Mocha, Chai, and code coverage with Istanbul.",
   "scripts": {
     "example": "node index.js",
-    "example2": "node index.js Hey world!",
     "test": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha",
     "tdd:mac": "./node_modules/.bin/mocha -w"
   },
