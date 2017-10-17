@@ -1,0 +1,6 @@
+{
+  "source": "/Users/xxxx/Desktop/daily.mov",
+  "destination": "/Users/xxxx/Desktop/daily.mp4",
+  "slackToken": "Get this at: https://api.slack.com/custom-integrations/legacy-tokens",
+  "channel": "adapters-kerbunetes"
+}

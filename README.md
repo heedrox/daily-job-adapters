@@ -1,10 +1,13 @@
-# nodejs-babel-es6-mocha-skeleton
+# daily-job-adapters
 
-This repo demonstrates how to setup a Nodejs project that uses ES6, Babel, Mocha, Chai, and Istanbul.
+- install ffmpeg
 
-Perfect for katayunos from Bilbao, or any other katayuno you would like to do.
+brew install ffmpeg
 
-Feel free to fork, use, distribute, kamehameha, or whatever you want to do with it.
+- Get a token for slack from: // from https://api.slack.com/custom-integrations/legacy-tokens
 
-Based on this one, thanks for the work: 
-https://oceanware.wordpress.com/2016/08/10/easy-tdd-setup-for-nodejs-es6-mocha-chai-istanbul/
+- npm install
+
+- copy config.template.json as config.json
+
+- npm run start
