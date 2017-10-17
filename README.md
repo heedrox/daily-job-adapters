@@ -8,6 +8,6 @@ brew install ffmpeg
 
 - npm install
 
-- copy config.template.json as config.json
+- copy config.template.json as config.json, and customize it
 
 - npm run start
